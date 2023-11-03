@@ -1,0 +1,166 @@
+{
+  "contacts" : [ {
+    "name" : "Bernice Yu",
+    "phone" : "99272758",
+    "email" : "berniceyu@example.com",
+    "address" : "Blk 30 Lorong 3 Serangoon Gardens, #07-18",
+    "tags" : [ "392151785901784782914bghjakgbacgj", "1", "vendors" ]
+  }, {
+    "name" : "Charlotte Oliveiro",
+    "phone" : "93210283",
+    "email" : "charlotte@example.com",
+    "address" : "Blk 11 Ang Mo Kio Street 74, #11-04",
+    "tags" : [ ]
+  }, {
+    "name" : "David Li",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "address" : "Blk 436 Serangoon Gardens Street 26, #16-43",
+    "tags" : [ ]
+  }, {
+    "name" : "Irfan Ibrahim",
+    "phone" : "92492021",
+    "email" : "irfan@example.com",
+    "address" : "Blk 47 Tampines Street 20, #17-35",
+    "tags" : [ "vendors" ]
+  }, {
+    "name" : "Roy Balakrishnan",
+    "phone" : "92624417",
+    "email" : "royb@example.com",
+    "address" : "Blk 45 Aljunied Street 85, #11-31",
+    "tags" : [ ]
+  }, {
+    "name" : "Hey",
+    "phone" : "99999999",
+    "email" : "johnd@example.com",
+    "address" : "John street, block 123, #01-01 : Adds a contact named John Doe",
+    "tags" : [ ]
+  }, {
+    "name" : "John DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn Doe",
+    "phone" : "98765432",
+    "email" : "johnd@example.com",
+    "address" : "311, Clementi Ave 2, #02-25",
+    "tags" : [ "vendors" ]
+  }, {
+    "name" : "John DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn DoeJohn Doe",
+    "phone" : "98765412",
+    "email" : "johnd@example.com",
+    "address" : "311, Clementi Ave 2, #02-25",
+    "tags" : [ "clients" ]
+  }, {
+    "name" : "i am a black black black sheep",
+    "phone" : "99929999",
+    "email" : "tliatuaitka@gmail.com",
+    "address" : "hiahihiag",
+    "tags" : [ ]
+  }, {
+    "name" : "i am a black black bldck sheep",
+    "phone" : "99299019",
+    "email" : "tliatutliatuaitkatliatuaitkatliatuaitkatliatuaitkatliatuaitkatliatuaitkaaitka@gmail.com",
+    "address" : "dafafgagaga",
+    "tags" : [ ]
+  } ],
+  "tagList" : [ "vendors", "clients", "1", "392151785901784782914bghjakgbacgj" ],
+  "events" : [ {
+    "name" : "NUS Summer Enterprise in Entrepreneurship 2024",
+    "date" : "2023-12-09",
+    "address" : "NUS",
+    "contacts" : [ ],
+    "tasks" : [ ]
+  }, {
+    "name" : "test",
+    "date" : "2024-02-29",
+    "address" : "akghaig",
+    "contacts" : [ {
+      "name" : "David Li",
+      "phone" : "91031282",
+      "email" : "lidavid@example.com",
+      "address" : "Blk 436 Serangoon Gardens Street 26, #16-43",
+      "tags" : [ ]
+    }, {
+      "name" : "Bernice Yu",
+      "phone" : "99272758",
+      "email" : "berniceyu@example.com",
+      "address" : "Blk 30 Lorong 3 Serangoon Gardens, #07-18",
+      "tags" : [ "392151785901784782914bghjakgbacgj", "1", "vendors" ]
+    }, {
+      "name" : "Charlotte Oliveiro",
+      "phone" : "93210283",
+      "email" : "charlotte@example.com",
+      "address" : "Blk 11 Ang Mo Kio Street 74, #11-04",
+      "tags" : [ ]
+    }, {
+      "name" : "Hey",
+      "phone" : "99999999",
+      "email" : "johnd@example.com",
+      "address" : "John street, block 123, #01-01 : Adds a contact named John Doe",
+      "tags" : [ ]
+    } ],
+    "tasks" : [ {
+      "description" : "muahahahahah",
+      "date" : "2099-03-31",
+      "event" : "test",
+      "status" : "hasNotBeenCompleted"
+    }, {
+      "description" : "muahahaha2hah",
+      "date" : "2099-03-31",
+      "event" : "test",
+      "status" : "hasNotBeenCompleted"
+    } ]
+  }, {
+    "name" : "National University of Singapore Summer Enterprise in Entrepreneurship 2024",
+    "date" : "2024-08-31",
+    "address" : "NUS",
+    "contacts" : [ ],
+    "tasks" : [ ]
+  }, {
+    "name" : "National University of Singapore Summer Enterprise in Entrepreneurship 2025",
+    "date" : "2024-08-31",
+    "address" : "NUS",
+    "contacts" : [ ],
+    "tasks" : [ ]
+  }, {
+    "name" : "agag",
+    "date" : "2025-02-28",
+    "address" : "agg",
+    "contacts" : [ ],
+    "tasks" : [ {
+      "description" : "muahahahahah",
+      "date" : "2099-03-31",
+      "event" : "agag",
+      "status" : "hasNotBeenCompleted"
+    } ]
+  }, {
+    "name" : "aighiahguishguiahguabghbahjgbahbahgjb2903203i023i02",
+    "date" : "3000-02-28",
+    "address" : "hgahgahkga",
+    "contacts" : [ ],
+    "tasks" : [ ]
+  } ],
+  "taskList" : [ {
+    "description" : "muahahahahah",
+    "date" : "2099-03-31",
+    "event" : "test",
+    "status" : "hasNotBeenCompleted"
+  }, {
+    "description" : "muahahaha2hah",
+    "date" : "2099-03-31",
+    "event" : "test",
+    "status" : "hasNotBeenCompleted"
+  }, {
+    "description" : "muahahahahah",
+    "date" : "2099-03-31",
+    "event" : "agag",
+    "status" : "hasNotBeenCompleted"
+  }, {
+    "description" : "i just added this task",
+    "date" : "3000-12-03",
+    "event" : "JobFest 2023",
+    "status" : "hasNotBeenCompleted"
+  }, {
+    "description" : "i just addedd this task",
+    "date" : "9999-12-03",
+    "event" : "JobFest 2023",
+    "status" : "hasNotBeenCompleted"
+  } ]
+}
